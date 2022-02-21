@@ -28,6 +28,10 @@ You can go to the projects tab to see what my current plans for the first versio
 
 I do plan on making a low profile kailh choc variant, but only after I complete the cherry variant will I start working on a choc one.
 
+At some point I also would like to add to each version an alternative with a rotary encoder, and will create separate variants for that as well.
+
+After I get more familiar with the process of pcb design and manufacturing I'd like to have a try at having a modular pcb, like the corne, where we can break the extra keys that you don't need.
+
 ---
 
 ## References
