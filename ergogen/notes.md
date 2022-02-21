@@ -6,6 +6,8 @@ The other files may not be as completed as the one before mentioned due to wanti
 
 ## Staggered + Thumb Spread
 
+These are the generated outlines from [this](./configs/staggered_thumb_spread.yaml) config.
+
 ### Keycaps Outline
 
 This is what the layout for each key in this format.
