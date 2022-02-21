@@ -1,0 +1,64 @@
+points:
+  key:
+    padding: u
+    footprints:
+      mx_hotswap:
+        type: mx
+        nets:
+          from: =column_net
+          to: GND
+        params:
+          reverse: true
+          hotswap: true
+  zones:
+    board:
+      columns:
+        index_far:
+          rotate: 10
+        index:
+          stagger: 5
+        middle:
+          stagger: 10
+          rotate: -10
+          spread: 21
+        ring:
+          stagger: -10
+          rotate: -7
+          spread: 20
+        pinkie:
+          stagger: -10
+          spread: 20
+          rotate: -30
+      rows:
+        bottom:
+        middle:
+        top:
+    rotary_encoder:
+      anchor:
+        ref: board_index_far_bottom
+        shift: [-25, 15]
+      columns:
+        rotary:
+          rotate: -10
+      rows:
+        rotary:
+    thumb_fan:
+      anchor:
+        ref: board_index_far_bottom
+        shift: [-39, -20]
+      columns:
+        out:
+          rotate: 10
+          origin: [45, -7]
+        middle:
+          rotate: 0
+          spread: 21
+        inner:
+          rotate: -20
+          spread: 22
+          origin: [-9.5, -9]
+      rows:
+        thumb:
+#  mirror:
+#    ref: board_index_far_bottom
+#    distance: -123.7529778

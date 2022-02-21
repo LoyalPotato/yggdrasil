@@ -1,0 +1,108 @@
+points:
+  key:
+    padding: u
+    footprints:
+      mx_hotswap:
+        type: mx
+        params:
+          reverse: true
+          hotswap: true
+  zones:
+    board:
+      rows:
+        bottom:
+        middle:
+        top:
+      columns:
+        index_far:
+          rotate: 10
+          row_overrides:
+            bottom:
+              bind: [0,0,7,20]
+            middle:
+              bind: [0,0,0,20]
+            top:
+              bind: [0,0,0,20]
+        index:
+          stagger: 5
+          row_overrides:
+            bottom:
+              bind: [0,2,20,0]
+            middle:
+              bind: [0,10,0,0]
+            top:
+              bind: [0,10,0,0]
+        middle:
+          stagger: 10
+          rotate: -10
+          spread: 21
+          row_overrides:
+            bottom:
+              bind: [0,0,20,0]
+            middle:
+              bind: [0,0,0,0]
+            top:
+              bind: [0,0,0,5]
+        ring:
+          stagger: -10
+          rotate: -7
+          spread: 20
+          row_overrides:
+            bottom:
+              bind: [0,0,10,7]
+            middle:
+              bind: [0,0,0,7]
+            top:
+              bind: [2.38,1.8,0,8]
+        pinkie:
+          stagger: -10
+          spread: 20
+          rotate: -30
+          row_overrides:
+            bottom:
+              bind: [0,0,0,28]
+            middle:
+              bind: [0,0,0,28]
+            top:
+              bind: [0,0,0,28]
+    thumb_fan:
+      anchor:
+        ref: board_index_far_bottom
+        shift: [-39, -20]
+      rows:
+        thumb:
+      columns:
+        out:
+          rotate: 10
+          origin: [45, -7]
+          row_overrides:
+            thumb:
+              bind: [0,5,0,0]
+        middle:
+          rotate: 0
+          spread: 21
+          row_overrides:
+            thumb:
+              bind: [0,10,0,0]
+        inner:
+          rotate: -20
+          spread: 22
+          origin: [-9.5, -9]
+          row_overrides:
+            thumb:
+              bind: [10,58,0,0]
+outlines:
+  exports:
+    raw:
+      - type: keys
+        side: left
+        size: [1u, 1u]
+    edge_cuts_round:
+      - type : outline
+        name: raw
+        fillet: 2
+    keycaps:
+      - type: keys
+        side: left
+        size: [1u - 1, 1u - 1]
+        bound: false

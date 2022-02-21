@@ -1,0 +1,17 @@
+points:
+  zones:
+    board:
+      rows:
+        top:
+        middle:
+        bottom:
+      columns:
+        index_far:
+        index:
+          stagger: 7
+        middle:
+          stagger: 10
+        ring:
+          stagger: -10
+        pinkie:
+          stagger: -20
