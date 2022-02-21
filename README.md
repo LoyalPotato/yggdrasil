@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="300" height="300" src="media/logo_white_bg.svg" alt="Yggdrasil">
+  <img width="300" height="300" src="media/logo_white_bg_text.svg" alt="Yggdrasil">
 </div>
 
 # Yggdrasil
