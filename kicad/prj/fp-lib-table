@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "Lily58-footprint")(type "KiCad")(uri "/home/loyalpotato/Documents/keyboards/yggdrasil/kicad/Lily58_footprint.pretty")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "/home/loyalpotato/Documents/keyboards/yggdrasil/kicad/kbd.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "Lily58")(type "KiCad")(uri "/home/loyalpotato/Documents/keyboards/yggdrasil/kicad/Lily58.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "Legacy")(uri "/home/loyalpotato/Documents/keyboards/yggdrasil/kicad/kbd.lib")(options "")(descr ""))
+)
