@@ -23,9 +23,9 @@ Images will be added as the project progresses.
 
 ## Plans
 
-You can go to the projects tab to see what my current plans for the first version of this board are. I'm currently only working on the Cherry Mx variant as that is the type of switches that I have in my possesion at the moment.
+You can go to the projects tab to see what my current plans for the first version of this board are.
 
-I do plan on making a low profile kailh choc variant, but only after I complete the cherry variant will I start working on a choc one.
+~~I do plan on making a low profile kailh choc variant, but only after I complete the cherry variant will I start working on a choc one.~~ I ended up using a footprint that has support for both :)
 
 At some point I also would like to add to each version an alternative with a rotary encoder, and will create separate variants for that as well.
 
@@ -40,3 +40,5 @@ After I get more familiar with the process of pcb design and manufacturing I'd l
 - [Corne Kbd](https://github.com/foostan/crkbd)
 - [ruiqimao's guide](https://github.com/ruiqimao/keyboard-pcb-guide)
 - [tapioki's Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux)
+- [Lily58](https://github.com/kata0510/Lily58)
+- [Keyboard Atelier's Discord](https://discord.gg/b7vwhHS) 
