@@ -11,6 +11,8 @@
 
 This is the home of my first keyboard project that I dubbed `Yggdrasil`.
 
+It's a 36% split keyboard that is tailored to be comfortable to my hand span.
+
 ## Contents
 
 - [Welcome](#welcome)
@@ -18,6 +20,7 @@ This is the home of my first keyboard project that I dubbed `Yggdrasil`.
   - [Images](#images)
   - [Plans](#plans)
   - [References](#references)
+  - [License](#license)
 
 ## Images
 
