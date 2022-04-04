@@ -12,7 +12,7 @@ This is a WIP file. More information will be added as the build progresses
 | --- | :---: | --- |
 | PCB | 2 | Project avaliable [here](/kicad/). I ordered from JLCPCB |
 | Plates | (Top + Bottom) * 2 | Go [here](/plates/) and choose the latest revision |
-| [USB-C ProMicro](https://tinyurl.com/ydrbb9nv) | 2 | Slight length difference from Micro USB ProMicro |
+| [USB-C ProMicro](https://www.aliexpress.com/item/1348800135.html) | 2 | Slight length difference from Micro USB ProMicro |
 | [TRRS Jacks](https://www.aliexpress.com/item/4000661212458.html) | 2 ||
 | [Kailh Hot-swap Sockets](https://www.aliexpress.com/item/4001051840976.html) | 36 ||
 | Diodes 1N4148 / 1N4148W | 36 | I used the [SMD](https://www.aliexpress.com/item/32334222067.html) version ||
