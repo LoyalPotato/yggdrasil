@@ -13,6 +13,10 @@ This is the home of my first keyboard project that I dubbed `Yggdrasil`.
 
 It's a 36% split keyboard that is tailored to be comfortable to my hand span.
 
+Here's what it looks like (minus plates, for now)
+
+![Final](media/final_rev1_1.jpg)
+
 ## Contents
 
 - [Welcome](#welcome)
