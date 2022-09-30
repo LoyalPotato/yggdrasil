@@ -13,22 +13,20 @@ This is the home of my first keyboard project that I dubbed `Yggdrasil`.
 
 It's a 36% split keyboard that is tailored to be comfortable to my hand span. You can find the build guide [here](./docs/build.md).
 
-Here's what it looks like (minus plates, for now)
+Here's what it looks like (minus plates)
 
 ![Final](media/final_rev1_1.jpg)
+
+And with 3d printed plates (and custom cables also done by me hehe :) )
+![Final_v2](media/rev1_plates_cables.jpg)
 
 ## Contents
 
 - [Welcome](#welcome)
   - [Contents](#contents)
-  - [Images](#images)
   - [Plans](#plans)
   - [References](#references)
   - [License](#license)
-
-## Images
-
-Images will be added as the project progresses.
 
 ## Plans
 
@@ -50,9 +48,9 @@ After I get more familiar with the process of pcb design and manufacturing I'd l
 - [ruiqimao's guide](https://github.com/ruiqimao/keyboard-pcb-guide)
 - [tapioki's Architeuthis dux](https://github.com/tapioki/cephalopoda/tree/main/Architeuthis%20dux)
 - [Lily58](https://github.com/kata0510/Lily58)
-- [Keyboard Atelier's Discord](https://discord.gg/b7vwhHS) 
+- [Keyboard Atelier's Discord](https://discord.gg/b7vwhHS)
 
-## License 
+## License
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-nc-sa].
 
