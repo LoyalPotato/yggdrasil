@@ -13,7 +13,7 @@ This is the home of my first keyboard project that I dubbed `Yggdrasil`.
 
 It's a 36% split keyboard that is tailored to be comfortable to my hand span. You can find the build guide [here](./docs/build.md).
 
-You can look [here](https://www.youtube.com/watch?v=r2uFzhUAN9s) to view it in action.
+You can view [here](https://www.youtube.com/watch?v=r2uFzhUAN9s) to see it in action.
 
 Here's what it looks like (minus plates)
 
