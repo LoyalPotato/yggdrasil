@@ -22,6 +22,10 @@ Here's what it looks like (minus plates)
 And with 3d printed plates (and custom cables also done by me hehe :) )
 ![Final_v2](media/rev1_plates_cables.jpg)
 
+Full wrap around case, also 3d printed
+![Final_full_case](media/rev1_full_case_1.jpg)
+![Final_full_case_2](media/rev1_full_case_2.jpg)
+
 ## Contents
 
 - [Welcome](#welcome)
