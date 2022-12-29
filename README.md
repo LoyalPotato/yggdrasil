@@ -30,9 +30,14 @@ Full wrap around case, also 3d printed
 
 - [Welcome](#welcome)
   - [Contents](#contents)
+  - [Design Article](#design-article)
   - [Plans](#plans)
   - [References](#references)
   - [License](#license)
+
+## Design Article
+
+If you're interested in knowing more about the design process that I went through and the final cost for me (in Portugal), I wrote a [post](https://loyalpotato.dev/projects/yggdrasil) about it :)
 
 ## Plans
 
